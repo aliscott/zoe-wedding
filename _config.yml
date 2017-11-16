@@ -1,0 +1,7 @@
+# Site settings
+title: Zoe & Mike
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://zoeandmike2018.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
