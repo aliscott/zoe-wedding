@@ -27,7 +27,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #7c8081;
+		color: #444647;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -126,8 +126,8 @@
 	}
 
 		header.special:before, header.special:after {
-			border-bottom: #A5CFDC solid 1.5px;
-			border-top: #A5CFDC solid 1.5px;
+			border-bottom: #77AAB5 solid 1.5px;
+			border-top: #77AAB5 solid 1.5px;
 			content: '';
 			height: 7px;
 			opacity: 0.4;
@@ -154,7 +154,7 @@
 		}
 
 		header.special .icon {
-			color: #A5CFDC;
+			color: #77AAB5;
 			cursor: default;
 			height: 7em;
 			left: 0;
@@ -206,7 +206,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #A5CFDC;
+			border-color: #77AAB5;
 		}
 
 	input[type="text"],
@@ -484,7 +484,7 @@
 			}
 
 			table.default thead {
-				background: #7c8081;
+				background: #444647;
 				color: #fff;
 			}
 
@@ -532,8 +532,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #A5CFDC;
-			border-color: #A5CFDC;
+			background: #77AAB5;
+			border-color: #77AAB5;
 			color: white !important;
 		}
 
@@ -573,7 +573,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #A5CFDC;
+			background-color: #77AAB5;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -588,7 +588,7 @@
 			.wrapper.style2 .button.special {
 				background: white;
 				border-color: white;
-				color: #A5CFDC !important;
+				color: #77AAB5 !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
@@ -619,7 +619,7 @@
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
 		color: inherit;
 		cursor: default;
-		font-size: 0.8em;
+		font-size: 1em;
 		left: 0;
 		padding: 1em 1.5em;
 		position: fixed;
@@ -795,7 +795,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #A5CFDC;
+				background: #77AAB5;
 				color: white;
 			}
 
@@ -937,7 +937,7 @@
 
 	#footer {
 		background: #e8eef4;
-		color: #7c8081;
+		color: #444647;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
 	}
@@ -1055,9 +1055,9 @@
 
 	#topPanel,
 	#sidePanel {
-		background: #645862;
+		background: #53687E;
 		color: white;
-		font-size: 0.8em;
+		font-size: 1em;
 		letter-spacing: 0.075em;
 		text-transform: uppercase;
 	}
@@ -1169,7 +1169,7 @@
   content: "";
   width: 3px;
   height: 100%;
-  background: #A5CFDC;
+  background: #77AAB5;
   left: 50%;
   top: 0;
   position: absolute;
@@ -1197,7 +1197,7 @@
 	clear: both;
 }
 #timeline .timeline-item .timeline-icon {
-  background: #A5CFDC;
+  background: #77AAB5;
   width: 50px;
   height: 50px;
   position: absolute;
@@ -1232,7 +1232,7 @@
 }
 #timeline .timeline-item .timeline-content h2 {
   padding: 15px;
-  background: #A5CFDC;
+  background: #77AAB5;
   color: #fff;
   margin: -20px -20px 0 -20px;
   -webkit-border-radius: 3px 3px 0 0;
@@ -1249,7 +1249,7 @@
   height: 0;
   border-top: 7px solid transparent;
   border-bottom: 7px solid transparent;
-  border-left: 7px solid #A5CFDC;
+  border-left: 7px solid #77AAB5;
 }
 #timeline .timeline-item .timeline-content.right {
   float: right;
@@ -1259,7 +1259,7 @@
   right: 45%;
   left: inherit;
   border-left: 0;
-  border-right: 7px solid #A5CFDC;
+  border-right: 7px solid #77AAB5;
 }
 
 @media screen and (max-width: 768px) {
@@ -1279,7 +1279,7 @@
     left: 10%;
     margin-left: -6px;
     border-left: 0;
-    border-right: 7px solid #A5CFDC;
+    border-right: 7px solid #77AAB5;
   }
   #timeline .timeline-item .timeline-icon {
     left: 0;
@@ -1387,7 +1387,7 @@
 }
 
 .heart-logo {
-	color: #A5CFDC;
+	color: #77AAB5;
 	margin-right: 5px;
 }
 
