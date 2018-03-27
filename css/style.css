@@ -1437,3 +1437,8 @@ a.rsvp:hover {
 	margin: 60px auto;
 	width: 66.6666666667%;
 }
+
+.registry .registry-list {
+	font-size: 1.2em;
+	line-height: 1.8em;
+}
