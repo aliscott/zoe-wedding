@@ -1446,3 +1446,34 @@ a.rsvp:hover {
 .registry p {
 	text-align: center;
 }
+
+.registry a {
+	color: #fff;
+}
+
+.faqs header {
+	margin-bottom: 30px;
+}
+
+.faq-content {
+	text-align: left;
+}
+
+.faq-content h3 {
+	font-weight: bold;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+.faq-content p {
+	text-align: left;
+}
+
+.faq-content ul {
+	list-style-type: square;
+	list-style-position: outside;
+}
+
+.faq-content li {
+	margin-left: 20px;
+}
